@@ -4,6 +4,7 @@
 
 STEP 1 
 INSTALL ANGULAR CLI FOR IMPLEMENTING FRONTEND
+
 COMMAND - npm install -g @angular/cli
 
 STEP 2 
