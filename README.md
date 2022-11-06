@@ -1,6 +1,7 @@
 # ToDoList_Backend
 
 =============== FRONTEND PART ====================
+
 STEP 1 
 INSTALL ANGULAR CLI FOR IMPLEMENTING FRONTEND
 COMMAND - npm install -g @angular/cli
